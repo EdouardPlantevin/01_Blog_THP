@@ -1,24 +1,14 @@
-# README
+##titre Super blog de THP 
+####titre Réalisation by Edouard, Léa 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Etape 1: 
+     > clône le repo 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Etape 2:
+     > rake db:migrate 
+     
+Etape 3: 
+     > rake db:seed 
+   
+Etape 4: 
+     > rails c

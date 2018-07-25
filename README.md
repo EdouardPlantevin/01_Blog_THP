@@ -8,3 +8,5 @@ Etape 2:   > rake db:migrate
 Etape 3:   > rake db:seed 
    
 Etape 4:   > rails c
+
+Etape 5:   > Jouer avec la console 

@@ -1,5 +1,5 @@
-##titre Super blog de THP 
-####titre Réalisation by Edouard, Léa 
+<h1>Super blog de THP</h1>
+<h4>Réalisation by Edouard, Léa</h4>
 
 Etape 1: 
      > clône le repo 
